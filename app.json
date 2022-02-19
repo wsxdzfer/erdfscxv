@@ -1,6 +1,6 @@
 {
-  "name": "edcfrgtv",
-  "description": "edcfrgtv",
+  "name": "xvdfsr",
+  "description": "xvdfsr",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/wsxdzfer/edcfrgtv",
-  "repository": "https://github.com/wsxdzfer/edcfrgtv",
+  "website": "https://github.com/wsxdzfer/erdfscxv",
+  "repository": "https://github.com/wsxdzfer/erdfscxv",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
